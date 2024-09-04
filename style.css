@@ -62,3 +62,7 @@ body {
     padding: 1rem;
     font-size: xx-large;
 }
+
+.hide {
+    display:none;
+}
